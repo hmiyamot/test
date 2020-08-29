@@ -11,7 +11,7 @@ call_printer = {
     "5": " is not on your list!",
     "6": "Now exiting",
     "7": " isn't a command!",
-    "8": "Nobody is here"
+    "8": " Nobody is here"
 }
 
 
