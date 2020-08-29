@@ -10,7 +10,7 @@ call_printer = {
     "4": "No Gilbert looks like Samuel so ew!",
     "5": " is not on your list!",
     "6": "Now exiting",
-    "7": " isn't a command!"
+    "7": " isn't a command!",
     "8": "Nobody is here"
 }
 
