@@ -11,22 +11,23 @@ call_printer = {
     "5": " is not on your list!",
     "6": "Now exiting",
     "7": " isn't a command!"
+    "8": "Nobody is here"
 }
 
 
 who_are_you = {
     "all friends": "1",
-    "search friend": "2",
-    "none!": "3",
-    "no one": "4",
-    "no-one": "5",
-    "nobody": "6",
-    "none": "7",
-    "tom": "8",
-    "Tom": "9",
-    "tom brank": "10",
-    "brank Tom": "11",
-    "none!": "13"
+    "search friend": "1",
+    "none!": "2",
+    "no one": "2",
+    "no-one": "3",
+    "nobody": "3",
+    "none": "4",
+    "tom": "4",
+    "Tom": "5",
+    "tom brank": "6",
+    "brank Tom": "7",
+    "none!": "8"
 }
 
 sys.stdout.write("Who are you? :")
