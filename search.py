@@ -5,8 +5,8 @@ import sys
 
 call_printer = {
     "1": " is in your list!",
-    "2": "Kai is on your list!",
-    "3": "Kai Asamori is on your list!",
+    "2": "Tom is on your list!",
+    "3": "Tom Brank is on your list!",
     "4": "No Gilbert looks like Samuel so ew!",
     "5": " is not on your list!",
     "6": "Now exiting",
@@ -22,11 +22,10 @@ who_are_you = {
     "no-one": "5",
     "nobody": "6",
     "none": "7",
-    "kai": "8",
-    "Kai": "9",
-    "kai asamori": "10",
-    "asamori Kai": "11",
-    "asamori Kai":"12",
+    "tom": "8",
+    "Tom": "9",
+    "tom brank": "10",
+    "brank Tom": "11",
     "none!": "13"
 }
 
